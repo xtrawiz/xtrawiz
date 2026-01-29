@@ -26,4 +26,5 @@ I am a **Mechanical Engineer** turned **FinTech Developer**. I combine engineeri
 ---
 
 📫 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)] https://www.linkedin.com/in/moh3en-yaghoubi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)] 
+https://www.linkedin.com/in/moh3en-yaghoubi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
