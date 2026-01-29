@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi there, I'm mohsen 👋
 
-<!--
-**xtrawiz/xtrawiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Mechanical Engineer** turned **FinTech Developer**. I combine engineering logic with Python to build automation tools for Financial Markets (Forex & Crypto). Currently leading Technical Marketing at **Khan Bourse**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Wordpress Economic Calendar Plugin** & **Crypto Calculators**
+- 🤖 I develop **Telegram Bots** for user engagement and market analysis
+- 🌱 I’m currently learning **FastAPI** and **Docker** to scale my apps
+- 📈 My background: **B.Sc. in Mechanical Engineering** (Strong Mathematical & Analytical foundation)
+
+---
+
+### 🛠 Tech Stack
+
+**Languages & Tools:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Telegram API](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=flat&logo=telegram&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+**Interests:**
+`FinTech` `Algo-Trading` `Growth Hacking` `Automation`
+
+---
+
+📫 **Connect with me:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](لینک پروفایل لینکدین خودت را اینجا بگذار)
